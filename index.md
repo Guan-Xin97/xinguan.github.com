@@ -74,9 +74,12 @@ Independently accomplished the following tasks about LncRNAs: 
 
 ### Internship 
 
-> Research assistant, Chengdu Norson Clinical Laboratory Co. Ltd.         _(07/2019-07/2020)_  
+Research assistant, Chengdu Norson Clinical Laboratory Co. Ltd.         _(07/2019-07/2020)_ 
+
 * Completed biological information related work in several tasks like obesity related SNP detection penal, lung cancer gene detection panel and a study of the association between lung cancer and tuberculosis 
-> Assistant, Beijing Branch of China Mobile Communication Corporation Terminal Co. Ltd.                           _(07/2017-08/2017)_  
+
+Assistant, Beijing Branch of China Mobile Communication Corporation Terminal Co. Ltd.                           _(07/2017-08/2017)_  
+
 * Organized and analyzed data; sorted, summarized and archived documents; purchased and tidied office supplies Intern, Social Practice of BJTU Enrollment Propaganda                                                                                      _(12/2016-02/2017)_ 
 
 ### Leadership Minister, Publicity Department of Party Committee (work-study program), BJTU                         _(09/2017-now)_
