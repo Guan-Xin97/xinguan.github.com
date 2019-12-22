@@ -1,4 +1,13 @@
 # Resume
+Xin Guan
+
+No. 3 Shangyuancun, 
+Haidian District, 
+Beijing, 100044, China    
+
++86-13126732266    
+
+guanxin97@163.com 
 
 ## Education
 
