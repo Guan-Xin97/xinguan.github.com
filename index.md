@@ -33,27 +33,27 @@ Independently accomplished the following tasks about LncRNAs:
 * Designed the primers to detect the expression of the mmu_circ_0000104
 
 ### Obesity Related SNP Detection Penal                                                                                _(07/2019-now)_ 
-* Searched GIANT database and papers for discovering SNP associated with obesity from different samples through GWAS and partly data from UCSC by R  
-* Gained basic information from GWAS Catalog database, including SNP-risk allele, initial sample size, related gene, OR/beta, disease/treat etc.  
-* Formed a standard to evaluate the SNP including p-value, race, sample size and other terms with different score  
-* Screened out the top 40 as research objects and designed different kinds of primers for each of them for different experiments like SYBR-Green and Taq-Man, and weigh efficiency of each method against its market value  
-* Formed an obesity scoring system by using OR-GRS to assign weight to each SNP 
+* Searched GIANT database and papers for discovering SNP associated with obesity from different samples through GWAS and partly data from UCSC by R
+* Gained basic information from GWAS Catalog database, including SNP-risk allele, initial sample size, related gene, OR/beta, disease/treat etc.
+* Formed a standard to evaluate the SNP including p-value, race, sample size and other terms with different score
+* Screened out the top 40 as research objects and designed different kinds of primers for each of them for different experiments like SYBR-Green and Taq-Man, and weigh efficiency of each method against its market value
+* Formed an obesity scoring system by using OR-GRS to assign weight to each SNP
 
-### Tuberculosis (TB) Related SNP Detection Penal                                                                  _(07/2019-now)_  
+### Tuberculosis (TB) Related SNP Detection Penal                                                                  _(07/2019-now)_
 * Constructed and improved the literature screening system for tuberculosis biomarkers, on the basis of the related literature
 * Screened thousands of literature that meet the requirements and summarized the information of biomarkers
 * Constructed a mathematical model to comprehensively evaluate several aspects of a biomarker, such as correlation of a biomarker with tuberculosis and the reliability of the data
 * Selected Top 10 biomarkers as candidate for latter experiments
 
-### Lung Cancer Gene Detection Panel by Using Circulating Tumor DNA in Peripheral Blood                               _(07/2019-now)_  
+### Lung Cancer Gene Detection Panel by Using Circulating Tumor DNA in Peripheral Blood                               _(07/2019-now)_
 * Searched TCGA database and papers for finding lung cancer related genes and collected information about their functions (cancer suppressor gene or proto-oncogene) and action modes (mutation/fusion/methylation/transcript variants/SNP/exon skipping) as well as the sub-types of lung cancer
  
 ## Core Course Projects 
 
-### Genomics (A+)                                                                                                       _(06/2018)_  
+### Genomics (A+)                                                                                                       _(06/2018)_
 * Made GWAS (Genome Wide Association Study) to analyze the genes related to “Milk fat percentage” of cattle by R language in Linux operating system
 
-### Bioinformatics Software and Its Application (A+)                                                              _(09/2017-01/2018)_  
+### Bioinformatics Software and Its Application (A+)                                                              _(09/2017-01/2018)_
 * Wrote applets via Perl and Shell in Linux OS to calculate the solvent accessibility of each amino acids of a great number of antibodies by batch download
 * Coded procedure in Perl to transform the coordinates of two antibodies and to make their important position coordinates overlap for further analysis of their similarities and differences which is showed by the PyMOL Viewer
 
@@ -64,29 +64,29 @@ Independently accomplished the following tasks about LncRNAs:
 * *Xin Guan et al.*, “A Way to Identify and Detect circRNA & the Application of Relevant Databases” (literature review, under preparation)
 
 ## Honors & Awards 
-* Honorable Mention, Mathematical Contest in Modeling (MCM) (30%)                                                        _(04/2018)_  
-* Successful Participant, China Undergraduate Mathematical Contest in Modeling                                          _(09/2017)_  
-* The 3nd Prize of Merit-based Scholarship (1/25), BJTU                                                          _(09/2017-07/2018)_  
-* The 2nd Prize of Merit-based Scholarship (1/10), BJTU                                                         _(09/2016-07/2017)_  
+* Honorable Mention, Mathematical Contest in Modeling (MCM) (30%)                                                        _(04/2018)_
+* Successful Participant, China Undergraduate Mathematical Contest in Modeling                                          _(09/2017)_
+* The 3nd Prize of Merit-based Scholarship (1/25), BJTU                                                          _(09/2017-07/2018)_
+* The 2nd Prize of Merit-based Scholarship (1/10), BJTU                                                         _(09/2016-07/2017)_
 * Merit Student, BJTU                                                                                            _(09/2016-07/2017)_
 
 ## Extracurricular Activities 
 
 ### Internship 
 
-Research assistant, Chengdu Norson Clinical Laboratory Co. Ltd.         _(07/2019-07/2020)_ 
+Research assistant, Chengdu Norson Clinical Laboratory Co. Ltd.         _(07/2019-07/2020)_
 
 * Completed biological information related work in several tasks like obesity related SNP detection penal, lung cancer gene detection panel and a study of the association between lung cancer and tuberculosis 
 
-Assistant, Beijing Branch of China Mobile Communication Corporation Terminal Co. Ltd.                           _(07/2017-08/2017)_  
+Assistant, Beijing Branch of China Mobile Communication Corporation Terminal Co. Ltd.                           _(07/2017-08/2017)_
 
 * Organized and analyzed data; sorted, summarized and archived documents; purchased and tidied office supplies Intern, Social Practice of BJTU Enrollment Propaganda                                                                                      _(12/2016-02/2017)_ 
 
 ### Leadership Minister, Publicity Department of Party Committee (work-study program), BJTU                         _(09/2017-now)_
 
-* Assigned work, interviewed outstanding students, wrote paper, checked campus newspaper and made its layout Vice-minister, Science and Technology Association, BJTU                                                                                     _(09/2016-06/2017)_  
+* Assigned work, interviewed outstanding students, wrote paper, checked campus newspaper and made its layout Vice-minister, Science and Technology Association, BJTU                                                                                     _(09/2016-06/2017)_
 
-* Held about 5 activities, like Teach-in of Student Research Training Program (over 1000 attendants), Encyclopedia Knowledge Contest for all students in BJTU, etc.; looked for members to build BJTU scientific research team Volunteer Field Personnel, China Heart Congress 2017 in Conjunction with the 2nd Annual China Vascular Congress                                                          _(08/2017)_ 
+* Held about 5 activities, like Teach-in of Student Research Training Program (over 1000 attendants), Encyclopedia Knowledge Contest for all students in BJTU, etc.; looked for members to build BJTU scientific research team Volunteer Field Personnel, China Heart Congress 2017 in Conjunction with the 2nd Annual China Vascular Congress                                                          _(08/2017)_
 
 ### Volunteer 
 
@@ -94,7 +94,7 @@ Assistant, Beijing Branch of China Mobile Communication Corporation Terminal Co.
 
 * Excellent Volunteer, called on passersby to donate money to buy stationeries for children in remote area       _(10/2016-11/2016)_
 
-## Expertise                                                                            
+## Expertise
 
 > Biological Experiments 
 
@@ -102,7 +102,7 @@ Cell culture, subculture, RNA extraction, RT-PCR (reverse transcription-polymera
 
 > Professional Skills 
 
-GWAS (genome wide association study); design primers for the normal gene, SNP (single nucleotide polymorphism), methylated gene; mathematical models construction; data analysis  
+GWAS (genome wide association study); design primers for the normal gene, SNP (single nucleotide polymorphism), methylated gene; mathematical models construction; data analysis
 
 > Computer Skills
 
