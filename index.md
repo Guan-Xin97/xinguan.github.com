@@ -1,5 +1,4 @@
-# Resume
-Xin Guan
+# Xin Guan
 
 No. 3 Shangyuancun, 
 Haidian District, 
