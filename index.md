@@ -71,22 +71,28 @@ Independently accomplished the following tasks about LncRNAs: 
 * Merit Student, BJTU                                                                                            _(09/2016-07/2017)_
 
 ## Extracurricular Activities 
+
 ### Internship 
-> Research assistant, Chengdu Norson Clinical Laboratory Co. Ltd.                                               _(07/2019-07/2020)_  
+
+> Research assistant, Chengdu Norson Clinical Laboratory Co. Ltd.         _(07/2019-07/2020)_  
 * Completed biological information related work in several tasks like obesity related SNP detection penal, lung cancer gene detection panel and a study of the association between lung cancer and tuberculosis 
 > Assistant, Beijing Branch of China Mobile Communication Corporation Terminal Co. Ltd.                           _(07/2017-08/2017)_  
 * Organized and analyzed data; sorted, summarized and archived documents; purchased and tidied office supplies Intern, Social Practice of BJTU Enrollment Propaganda                                                                                      _(12/2016-02/2017)_ 
 
 ### Leadership Minister, Publicity Department of Party Committee (work-study program), BJTU                         _(09/2017-now)_
+
 * Assigned work, interviewed outstanding students, wrote paper, checked campus newspaper and made its layout Vice-minister, Science and Technology Association, BJTU                                                                                     _(09/2016-06/2017)_  
+
 * Held about 5 activities, like Teach-in of Student Research Training Program (over 1000 attendants), Encyclopedia Knowledge Contest for all students in BJTU, etc.; looked for members to build BJTU scientific research team Volunteer Field Personnel, China Heart Congress 2017 in Conjunction with the 2nd Annual China Vascular Congress                                                          _(08/2017)_ 
 
 ### Volunteer 
+
 > Guide in Fragrant Hill (twice)                                                                          _(05/2017&10/2016)_ 
 
 > Excellent Volunteer, called on passersby to donate money to buy stationeries for children in remote area       _(10/2016-11/2016)_
 
 ## Expertise                                                                            
+
 > Biological Experiments 
 
 Cell culture, subculture, RNA extraction, RT-PCR (reverse transcription-polymerase chain reaction), protein concentration measurement with BCA (bicinchoninic acid), western blot experiment  
