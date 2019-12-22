@@ -2,10 +2,8 @@
 
 No. 3 Shangyuancun, 
 Haidian District, 
-Beijing, 100044, China    
-
-+86-13126732266    
-
+Beijing, 100044, China
++86-13126732266
 guanxin97@163.com 
 
 ## Education
@@ -17,12 +15,12 @@ Program: B.S. in Bioinformatics (Overall GPA: 3.92/4.0; Major GPA: 3.93/4.0)
 ## Research Experience 
 
 ### Verification of lncRNA and circRNA in Osteogenic Differentiation Based on Next-generation Sequencing         _(06/2018-06/2019)_         
-Assisted in completing the following tasks:   
-* Utilized BMP-2(bone morphogenetic protein 2) to induce MC3T3E1 cell to differentiate into osteoblast  
+Assisted in completing the following tasks:
+* Utilized BMP-2(bone morphogenetic protein 2) to induce MC3T3E1 cell to differentiate into osteoblast
 * Obtained 48687 mRNAs and 1806 annotated lncRNAs after extracting RNA fragments from experimental group and control group by high-throughput sequencing  
 * Gained 171 lncRNAs and 55 circRNAs which could be expressed differentially in the process of osteogenic differentiation 
 
-Independently accomplished the following tasks about LncRNAs:  
+Independently accomplished the following tasks about LncRNAs:
 * Looked for the pairs of mRNA and LncRNA which were differentially expressed during osteogenic differentiation and had co-location and co-expression relationship with each other  
 * Selected the ENSMUST00000145585.1(LncRNA) and Optn(mRNA) as experimental objects from the candidates by employing several standards, like the relationship between gene and bone related metabolic processes, p-value etc.  
 * Formed several assumptions of the interaction between Optn and ENSMUST00000145585.1 by predicting subcellular localization of ENSMUST00000145585.1, comparing the positional relationship between each transcript of Optn and ENSMUST00000145585.1 and forecasting the binding of ENSMUST00000145585.1 and Optn protein  
