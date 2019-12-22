@@ -87,9 +87,9 @@ Independently accomplished the following tasks about LncRNAs: 
 
 ### Volunteer 
 
-> Guide in Fragrant Hill (twice)                                                                          _(05/2017&10/2016)_ 
+* Guide in Fragrant Hill (twice)                                                                          _(05/2017&10/2016)_ 
 
-> Excellent Volunteer, called on passersby to donate money to buy stationeries for children in remote area       _(10/2016-11/2016)_
+* Excellent Volunteer, called on passersby to donate money to buy stationeries for children in remote area       _(10/2016-11/2016)_
 
 ## Expertise                                                                            
 
